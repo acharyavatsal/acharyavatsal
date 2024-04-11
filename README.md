@@ -11,7 +11,7 @@
 
 🔍 Find Me On:
 
-    GitHub: Vatsal Acharya -
+    GitHub: Vatsal Acharya - https://github.com/acharyavatsal
     Kaggle: Vatsal Acharya - 
     Tableau Public: Vatsal Acharya Tableau Profile - 
 
